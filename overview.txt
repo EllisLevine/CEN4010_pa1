@@ -1,0 +1,22 @@
+Group member names: Ellis Levine, Marshall Lang, Amin Ortiz
+
+Things that gave us trouble: the way the folder directory structure needed to formmated according to the rubric, making sure that the Vector3D class was truly immutable, and
+also configuring git permissions so that everyone could contribute. It was also hard to split up duties, since the project was so short. One group member basically coded most of what
+we turned in in an hour and then the rest of us did it on our own to get acquainted with JUnit and Git for our own sakes.
+
+Specific contributions made by each team member:
+
+Ellis Levine: coded most of the project.
+
+Marshall Lang: Showed us how to make the project more immutable by changing the visibility of the methods.
+
+Amin Ortiz: Looked over Ellis' work and rewrote the equals method to implement a tolerance for floating point variance.
+
+
+Time in minutes spent by each team member on assignment:
+
+Ellis Levine: 139 minutes.
+
+Amin Ortiz: 87 minutes.
+
+Marshall Lang: 72 minutes.
