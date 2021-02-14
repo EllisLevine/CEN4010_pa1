@@ -54,8 +54,8 @@ class Vector3DTest {
 	
 	@Test
 	public void testEquals() {
-		Vector3D vect1 = new Vector3D(2, 3, 4);
-		Vector3D vect2 = new Vector3D(2, 3, 4);
+		Vector3D vect1 = new Vector3D(2.000023, 3.000004, 4.000054);
+		Vector3D vect2 = new Vector3D(2.000023, 3.000004, 4.000054);
 		assertEquals(vect1, vect2);
 	}
 	
